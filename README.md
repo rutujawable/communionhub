@@ -4,4 +4,4 @@
 It uses react reusable components, react hooks,routing using react router dom , some ES6 functions for better user experience and responsive UI.
 
 # home page of communionhub
-https://github.com/rutujawable/communionhub/blob/main/Screenshot%20(226).png
+![alt text](https://github.com/rutujawable/communionhub/blob/main/Screenshot%20(226).png))
