@@ -1,0 +1,21 @@
+.event-card {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    flex-wrap: wrap;
+    width: 300px;
+  }
+  
+  .event-card h2 {
+    margin-bottom: 10px;
+  }
+
+  .eventimg{
+    height: 170px;
+    width: 260px;
+    border-radius: 5px;
+    
+  }
+
